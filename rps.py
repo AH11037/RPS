@@ -1,7 +1,6 @@
 from random import randint
 t = ["Rock", "Paper", "Scissors"]
 computer = t[randint(0,2)]
-print(computer)
 player = False
 while not player:
     player = input("Rock,Paper,Scissors?")
@@ -26,3 +25,4 @@ while not player:
         print("Check your spelling idiot")
 player = False
 computer = t[randint(0,2)]
+
