@@ -1,4 +1,4 @@
-# Rock, Paper Scissors </br>
+# Rock, Paper, Scissors </br>
 A simple CLI app that I made when I was first learning how to code.</br>
 Contains complementary insults to make the game more fun (nothing offensive don't worry)!
 ## Features
