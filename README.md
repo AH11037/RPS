@@ -1,7 +1,8 @@
 # Rock, Paper Scissors </br>
 A simple CLI app that I made when I was first learning how to code.</br>
-Try winning!</br>
+Contains complementary insults to make the game more fun (nothing offensive don't worry)!
 ## Features
+ <img width="320" height="63" alt="image" src="https://github.com/user-attachments/assets/82e99a59-3790-4975-9058-e07fae8effa2" /> </br>
 * Playable via the command line
 * Simple logic to determine the winner
 * Immediate feedback
@@ -22,3 +23,4 @@ The computer will let you know if you won or lost
 * Adding replayability so the game can continue without restarting
 * Rewrite the logic to use a ```switch``` statement instead of several ```if``` statements
 * Making a simple GUI version using TKinter
+
